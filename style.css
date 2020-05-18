@@ -1,5 +1,5 @@
 body{
-    background: #171717; font-size:18px; font-family: 'Handlee', cursive;
+    background: #2649bd; font-size:18px; font-family: 'Handlee', cursive;
 }
 .postcard{
     background:white; width: 500px; height: 300px; margin: auto; position: absolute; top: 50%; left:50%; transform: translate(-50%, -50%); padding:15px;
